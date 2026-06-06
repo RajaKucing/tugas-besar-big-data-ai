@@ -1,0 +1,4 @@
+class,actual_total,correct_prediction,class_accuracy
+High Demand,427,295,0.6908665105386417
+Low Demand,1974,1922,0.9736575481256332
+Medium Demand,1025,842,0.8214634146341463

@@ -1,0 +1,22 @@
+
+RINGKASAN HASIL AKHIR MODELING
+========================================
+
+Dataset yang digunakan merupakan dataset transaksi e-commerce Indonesia periode Januari 2024 sampai November 2025.
+Target klasifikasi adalah tingkat permintaan produk yang dibagi menjadi tiga kelas, yaitu Low Demand, Medium Demand, dan High Demand.
+
+Model yang dibandingkan:
+Decision Tree, Logistic Regression, Random Forest
+
+Model terbaik berdasarkan F1-score:
+Decision Tree
+
+Performa model terbaik:
+Accuracy  : 0.8929
+Precision : 0.8914
+Recall    : 0.8929
+F1-score  : 0.8901
+
+Interpretasi singkat:
+Model terbaik dipilih berdasarkan F1-score karena metrik ini mempertimbangkan keseimbangan antara precision dan recall.
+Confusion matrix digunakan untuk melihat kemampuan model dalam membedakan kelas Low Demand, Medium Demand, dan High Demand.
