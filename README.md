@@ -2,8 +2,6 @@
 
 Repositori ini berisi proyek tugas besar mata kuliah **Big Data dan Artificial Intelligence** dengan studi kasus **Prediksi/Klasifikasi Tingkat Permintaan Produk E-Commerce Indonesia**. Proyek ini menggunakan dataset transaksi e-commerce Indonesia periode **2024–2025** yang terdiri dari beberapa file Excel bulanan, kemudian diproses menjadi satu dataset gabungan untuk dianalisis, dilakukan preprocessing, dan dimodelkan menggunakan **PySpark Machine Learning**.
 
-## Identitas Mahasiswa
-
 | Keterangan    | Data                        |
 | ------------- | --------------------------- |
 | Nama          | Wisnubuwana Prabaswara      |
