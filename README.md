@@ -300,7 +300,3 @@ Hasil akhir dari proyek ini adalah pipeline analisis dan klasifikasi permintaan 
 4. Hasil evaluasi model menggunakan accuracy, precision, recall, dan F1-score.
 5. Confusion matrix model terbaik.
 6. Visualisasi hasil akhir dan ringkasan prediksi per kelas.
-
-## Lisensi
-
-Project ini dibuat untuk keperluan akademik pada mata kuliah Big Data dan Artificial Intelligence.
